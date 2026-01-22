@@ -6,6 +6,7 @@ This Porjects uses C, Java and Python to generate a messaging application that u
 
 ## Resources used for the project
 
+* [Docs python Lib/socket.py](https://docs.python.org/3/library/socket.html#creating-sockets)
 * [programming with UDP sockets](https://people.cs.rutgers.edu/~pxk/417/notes/sockets/udp.html)
 * [TCP/IP Sockets in Java - Practical Guide for Programmers](https://www.perlego.com/book/1855881/tcpip-sockets-in-java-practical-guide-for-programmers-pdf)
 * [Socket Programming in Python (Guide)](https://realpython.com/python-sockets/)
